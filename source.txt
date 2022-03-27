@@ -1,0 +1,33 @@
+- [Le site officiel de golang](https://golang.org/)
+
+- [GoWebExamples](https://gowebexamples.com/static-files/)
+
+- [w3schools](https://www.w3schools.com/)
+
+- [AlexEdwards](https://www.alexedwards.net/blog/serving-static-sites-with-go)
+
+- [GopherAcademy](https://blog.gopheracademy.com/advent-2017/using-go-templates/)
+
+- [Golangprograms](https://www.golangprograms.com/example-to-handle-get-and-post-request-in-golang.html)
+
+- [JSON TO GO](https://mholt.github.io/json-to-go/)
+
+- [How to create a REST API with Golang](https://tutorialedge.net/golang/creating-restful-api-with-golang/)
+
+- [Differents styles de scrollbar](https://codepen.io/devstreak/pen/dMYgeO)
+
+- [Comment customiser le scrollbar](https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp)
+
+- [Choix des couleurs](https://www.schemecolor.com/)
+
+- [Agrandir une image](https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_background-size)
+
+- [Police d'écriture](https://fonts.google.com/)
+
+- [Golang Templates CheatSheet](https://curtisvermeeren.github.io/2017/09/14/Golang-Templates-Cheatsheet)
+
+- [Utiliser les fonctions build-in](https://gohugo.io/functions/)
+
+- [Insérer une carte avec OpenStreetMap](https://nouvelle-techno.fr/actualites/pas-a-pas-inserer-une-carte-openstreetmap-sur-votre-site)
+
+- [Récupérer les coordonnées d'une position](https://gist.github.com/rufuspollock/4994760)
